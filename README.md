@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## 北京生命科学研究所转基因动物中心
 
-You can use the [editor on GitHub](https://github.com/shuntaiyu/shuntaiyu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 中心职能
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+北京生命科学研究所转基因动物中心为研究所各实验室提供基因敲除、转基因小鼠制备服务。同时中心也会根据实验室的特殊需要，研发新的技术和方法用于动物疾病模型的建立。转基因动物中心主要提供以下的服务：
 
-### Markdown
+- 一. 转基因小鼠的制备：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 原核显微注射法
 
-```markdown
-Syntax highlighted code block
+2. 利用转座子系统胞质显微注射法
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- 二. 利用胚胎干细胞进行基因敲除/敲入小鼠的制备：
 
-1. Numbered
-2. List
+1. 打靶载体的构建
 
-**Bold** and _Italic_ and `Code` text
+2. 胚胎干细胞打靶
 
-[Link](url) and ![Image](src)
-```
+3. 囊胚显微注射
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+- 三. 利用TALEN或Cas9/sgRNA技术直接胚胎注射法制备基因敲除/敲入小鼠：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuntaiyu/shuntaiyu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. TALEN或Cas9/sgRNA设计及载体构建
 
-### Support or Contact
+2. TALEN或Cas9/sgRNA mRNA体外转录
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3. TALEN或Cas9/sgRNA mRNA受精卵显微注射
+
+
+- 四. 小鼠品系资源的保种：
+
+1. 精子冻存及ICSI法复苏
+
+2. 胚胎冻存及复苏
+
+
+- 五. 无特异性病原体小鼠品系的重建
+
+
+- 六. 其他：如载体设计，基因型和表型分析的咨询等。
+
+
+
+
+
